@@ -1,0 +1,12 @@
+@RELATION office_network
+
+@ATTRIBUTE coord_X NUMERIC
+@ATTRIBUTE coord_Y NUMERIC
+
+@DATA
+1, 1
+1, 1.1
+1.2, 1
+1.1, 1.1
+1, 0.9
+10, 10

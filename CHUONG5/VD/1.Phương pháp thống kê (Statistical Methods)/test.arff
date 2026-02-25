@@ -1,0 +1,16 @@
+@RELATION student_height
+
+@ATTRIBUTE name STRING
+@ATTRIBUTE height NUMERIC
+
+@DATA
+"An", 150
+"Bình", 155
+"Chi", 152
+"Dũng", 158
+"Lan", 154
+"Hùng", 195
+"Yến", 151
+"Tuấn", 110
+"Hoa", 153
+"Nam", 156

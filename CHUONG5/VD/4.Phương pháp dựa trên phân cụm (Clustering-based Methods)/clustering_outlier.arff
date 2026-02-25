@@ -1,0 +1,13 @@
+@RELATION shopping_behavior
+
+@ATTRIBUTE items_count NUMERIC
+@ATTRIBUTE total_spend NUMERIC
+
+@DATA
+2, 50
+3, 70
+2, 60
+10, 500
+12, 550
+11, 520
+50, 10
